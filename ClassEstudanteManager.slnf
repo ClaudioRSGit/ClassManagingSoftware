@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\tetse\\tetse.sln",
+    "projects": [
+      "tetse\\tetse.vcxproj"
+    ]
+  }
+}
